@@ -1,0 +1,91 @@
+body{
+  background-color:rgb(25, 25, 25);
+  color:white;
+  font-family:arial;
+  }
+
+  .css-display-title{
+    font-size:30px;
+    font-weight:bold;
+  }
+
+  .icon-game-css{
+    height:50px;
+    width:50px;
+    object-fit:contain;
+  }
+
+  .editing-button-rock{
+    height:120px;
+    width:120px;
+    border-radius:70px;
+    cursor:pointer;
+    background-color: rgb(25, 25, 25);
+    border-style:solid;
+    border-width:3px;
+    border-color: white;
+    margin-right:10px;
+  }
+
+  .editing-button-paper{
+    height:120px;
+    width:120px;
+    border-radius:70px;
+    cursor:pointer;
+    background-color: rgb(25, 25, 25);
+    border-style:solid;
+    border-width:3px;
+    border-color: white;
+    margin-right:10px;
+  }
+
+  .editing-button-scissors{
+    height:120px;
+    width:120px;
+    border-radius:70px;
+    cursor:pointer;
+    background-color: rgb(25, 25, 25);
+    border-style:solid;
+    border-width:3px;
+    border-color: white;
+    margin-right:10px;
+  }
+
+  .css-display3{
+    font-weight:bold;
+    font-size:25px;
+    margin-bottom:25px;
+    margin-top:50px;
+  }
+
+  .css-display2{
+    margin-bottom:60px;
+  }
+
+  .edit-img-moves{
+    height:50px;
+    width:50px;
+    object-fit:cover;
+  }
+
+  .css-reset{
+    background-color:white;
+    padding-top:8px;
+    padding-bottom:8px;
+    padding-left:15px;
+    padding-right:15px;
+    border:none;
+    font-size:15px;
+    cursor:pointer;
+  }
+
+  .css-autoPlay{
+    background-color:white;
+    padding-top:8px;
+    padding-bottom:8px;
+    padding-left:15px;
+    padding-right:15px;
+    border:none;
+    font-size:15px;
+    cursor:pointer;
+  }
